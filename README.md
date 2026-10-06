@@ -165,7 +165,7 @@ Poucos minutos depois, uma nova varredura mostrou a **porta 80 `open`**.
 
 Dois pedidos feitos pelo site e gravados no banco de dados da instância:
 
-![Histórico de pedidos](./imagem/07-historico-pedidos.png)
+![Histórico de pedidos](./imagem/07-historico-pedidos.png) 
 
 ---
 
